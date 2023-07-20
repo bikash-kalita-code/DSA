@@ -1,5 +1,7 @@
 # Problem Name : 1068. Product Sales Analysis I
 
+[:arrow_backward: LeetCode Problems](../README.md)
+
 ### Code
 
 #### MySQL
