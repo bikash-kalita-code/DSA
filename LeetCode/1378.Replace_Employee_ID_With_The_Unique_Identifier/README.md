@@ -6,7 +6,7 @@
 
 #### MySQL
 
-```
+```sql
 SELECT
 	e2.unique_id, e.name
 FROM

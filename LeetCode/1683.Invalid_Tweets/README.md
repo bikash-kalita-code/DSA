@@ -6,7 +6,7 @@
 
 #### MySQL
 
-```
+```sql
 SELECT 
     tweet_id 
 FROM 

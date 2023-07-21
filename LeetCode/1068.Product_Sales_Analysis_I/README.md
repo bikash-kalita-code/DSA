@@ -6,7 +6,7 @@
 
 #### MySQL
 
-```
+```sql
 SELECT
     p.product_name, s.year, s.price
 FROM

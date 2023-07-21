@@ -6,7 +6,7 @@
 
 #### MySQL
 
-```
+```sql
 SELECT 
     DISTINCT author_id AS id
 FROM 

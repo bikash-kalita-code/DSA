@@ -6,7 +6,7 @@
 
 #### MySQL
 
-```
+```sql
 SELECT
 	w2.id
 FROM

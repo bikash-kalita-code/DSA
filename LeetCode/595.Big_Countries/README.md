@@ -6,7 +6,7 @@
 
 #### MySQL
 
-```
+```sql
 SELECT
     name, population, area
 FROM 

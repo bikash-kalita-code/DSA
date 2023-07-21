@@ -6,7 +6,7 @@
 
 #### MySQL
 
-```
+```sql
 SELECT
     product_id
 FROM
