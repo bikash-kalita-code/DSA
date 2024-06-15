@@ -4,7 +4,7 @@ This repository includes files and information regarding Data Structure, Algorit
 
 ### Standard Data Structures
 
- - [Array](./Array/README.md)\
+ - [Array](./Array/README.md)
  - [Linked List](./Linked%20List/README.md)
 
 ### Sources :
