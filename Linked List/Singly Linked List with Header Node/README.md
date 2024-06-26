@@ -1,5 +1,11 @@
 # Singly Linked List with Header Node
 
+## Linked List with Header Node
+
+Header node is a dummy node that is present at the beginning of the list and its link part is used to store the address of the first actual node of the list. The info part of this node may be empty or can be used to contain useful information about the list link count of elements currently present in the list.
+
+The header node is never deleted, it exists even if the list is empty. So it may be declared while writing the program instead of dynamically allocating memory for it.
+
 ### Code
 
 #### C
