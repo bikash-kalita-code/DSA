@@ -2,6 +2,10 @@
 
 This repository includes files and information regarding Data Structure, Algorithms, Problem Solving and SQL in an organized manner.
 
+## Algorithms
+
+ - [Sorting](./Algorithms/Sorting/README.md)
+
 ### Standard Data Structures
 
  - [Array](./Array/README.md)
